@@ -18,25 +18,21 @@ I am a **fullstack software engineer working at Microsoft, India** with an exper
 
 ## Experience
 
-### **SOFTWARE ENGINEER**
-### MICROSOFT
+### SOFTWARE ENGINEER | MICROSOFT | Hyderabad, India
 
 Working on the modern Enterprise Azure portal at Microsoft scale to provide a seamless and user-friendly ordering and billing experience to the Azure enterprise customers
 
-### **SOFTWARE ENGINEER - 1**
-### F5 NETWORKS
+### SOFTWARE ENGINEER - 1 | F5 NETWORKS | Hyderabad, India
 
 Worked on couple of projects at F5:
 1. Classic BIG-IP - a load balancer and traffic management device. I worked along with an agile scrum team in resolving high customer impacting bugs and critical security exposures and vulnerabilities in the product’s web layer (REST API and the UI)
 2. Journeys App - a web application to provide an automated software upgradation solution for BIGIP customers. My contribution was mostly in developing UI screens using ReactJS for the application. This was part of my side gig.
 
-### **SOFTWARE DEVELOPMENT ENGINEERING INTERN**
-### GAMENOUS PVT LTD
+### SOFTWARE DEVELOPMENT ENGINEERING INTERN | GAMENOUS PVT LTD | Hyderabad, India
 
 My role was to design and develop the UI and API services for a fantasy cricket Progressive Web Application, MyPL and its analytics dashboard portal using MEAN Stack and Ionic Framework.
 
-### **SOFTWARE DEVELOPMER INTERN**
-### METDINE ONLINE SERVICES PVT LTD
+### SOFTWARE DEVELOPMER INTERN | METDINE ONLINE SERVICES PVT LTD | Hyderabad, India
 
 My role was to develop back-end RESTful web services for food delivery application. I have designed and developed REST APIs from scratch in Java and also hosted them on AWS EC2 instances.
 
@@ -52,6 +48,7 @@ GPA 8.47/10
 
 ### INTERESTS
 Duirng my freetime I do random side projects to explore different technologies and also mentor juniors and provide 1:1 career guidance on LinkedIn.
+
 Apart from coding and technical stuff, I love photography. From macro photography to bird photography to portraits, I do lots of experiments in photography.
 
 I am a travel freak and love to spend time at beaches and hill stations.
