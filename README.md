@@ -40,7 +40,7 @@ My role was to develop back-end RESTful web services for food delivery applicati
 
 ## Education
 
-### **Jawaharlal Nehru Technological University Hyderabad, College of Engineering Hyderabad (JNTUHCEH)** - Ranked #1 State University
+### **JNTU Hyderabad, College of Engineering Hyderabad (JNTUHCEH)** - Ranked #1 State University
 ### Bachelor of Technology in Computer Science and Engineering (2015- 2019)
 GPA 8.47/10
 
