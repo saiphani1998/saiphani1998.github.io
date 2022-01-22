@@ -1,4 +1,4 @@
-## Portfolio
+## About
 
 I am a **fullstack software engineer working at Microsoft, India** with an experience of around 3 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java and JavaScript technologies.
 
