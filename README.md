@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/saiphani1998/saiphani1998.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a fullstack software engineer working at Microsoft, India with an experience of around 3 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java and JavaScript technologies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.jpg" alt="Java" width="auto" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="javascript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **SOFTWARE ENGINEER**
+### MICROSOFT
 
-1. Numbered
-2. List
+Working on the modern Enterprise Azure portal at Microsoft scale to provide a seamless and user-friendly ordering and billing experience to the Azure enterprise customers
 
-**Bold** and _Italic_ and `Code` text
+### **SOFTWARE ENGINEER - 1**
+### F5 NETWORKS
 
-[Link](url) and ![Image](src)
-```
+Worked on couple of projects at F5:
+1. Classic BIG-IP - a load balancer and traffic management device. I worked along with an agile scrum team in resolving high customer impacting bugs and critical security exposures and vulnerabilities in the product’s web layer (REST API and the UI)
+2. Journeys App - a web application to provide an automated software upgradation solution for BIGIP customers. My contribution was mostly in developing UI screens using ReactJS for the application. This was part of my side gig.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **SOFTWARE DEVELOPMENT ENGINEERING INTERN**
+### GAMENOUS PVT LTD
 
-### Jekyll Themes
+My role was to design and develop the UI and API services for a fantasy cricket Progressive Web Application, MyPL and its analytics dashboard portal using MEAN Stack and Ionic Framework.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saiphani1998/saiphani1998.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **SOFTWARE DEVELOPMER INTERN**
+### METDINE ONLINE SERVICES PVT LTD
 
-### Support or Contact
+My role was to develop back-end RESTful web services for food delivery application. I have designed and developed REST APIs from scratch in Java and also hosted them on AWS EC2 instances.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+## Education
+
+### **Jawaharlal Nehru Technological University Hyderabad, College of Engineering Hyderabad (JNTUHCEH)** - Ranked #1 State University
+### Bachelor of Technology in Computer Science and Engineering (2015- 2019)
+GPA 8.47/10
+
+---
+
+### INTERESTS
+Duirng my freetime I do random side projects to explore different technologies and also mentor juniors and provide 1:1 career guidance on LinkedIn.
+Apart from coding and technical stuff, I love photography. From macro photography to bird photography to portraits, I do lots of experiments in photography.
+
+I am a travel freak and love to spend time at beaches and hill stations.
