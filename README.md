@@ -1,6 +1,6 @@
 ## About
 
-I am a **fullstack software engineer working at Microsoft, India** with an experience of around 3 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java and JavaScript technologies.
+I am a passionate and results-driven **fullstack software engineer working at Microsoft, India** offering a unique blend of problem-solving skills and leadership skills. I hold exceptional software development experience of 5+ years in application development, object-oriented programming, Data Structures, Algorithms, and leading teams in delivering technical solutions.
 
 ---
 
@@ -18,14 +18,14 @@ I am a **fullstack software engineer working at Microsoft, India** with an exper
 
 ## Experience
 
-### SOFTWARE ENGINEER | MICROSOFT | Hyderabad, India
+### SOFTWARE ENGINEER 2 | MICROSOFT | Hyderabad, India
 
 Working on the modern Enterprise Azure portal at Microsoft scale to provide a seamless and user-friendly ordering and billing experience to the Azure enterprise customers
 
 ### SOFTWARE ENGINEER - 1 | F5 NETWORKS | Hyderabad, India
 
-Worked on couple of projects at F5:
-1. Classic BIG-IP - a load balancer and traffic management device. I worked along with an agile scrum team in resolving high customer impacting bugs and critical security exposures and vulnerabilities in the product’s web layer (REST API and the UI)
+Worked on a couple of projects at F5:
+1. Classic BIG-IP - a load balancer and traffic management device. I worked along with an agile scrum team in resolving high customer-impacting bugs and critical security exposures and vulnerabilities in the product’s web layer (REST API and the UI)
 2. Journeys App - a web application to provide an automated software upgradation solution for BIGIP customers. My contribution was mostly in developing UI screens using ReactJS for the application. This was part of my side gig.
 
 ### SOFTWARE DEVELOPMENT ENGINEERING INTERN | GAMENOUS PVT LTD | Hyderabad, India
